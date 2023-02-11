@@ -4,4 +4,6 @@ private:
     hardwork()
 pulbic:
    sucess()
+   ll();
+   
 };
